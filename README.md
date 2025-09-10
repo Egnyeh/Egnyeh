@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi!%20I'm%20Cristina%20Murcia%20☽&fontSize=40&fontAlignY=35&color=gradient&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi!%20I'm%20Cristina%20Murcia%20☾&fontSize=40&fontAlignY=35&color=gradient&animation=twinkling"/>
 </p>
 
 ---
