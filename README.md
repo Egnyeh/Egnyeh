@@ -1,16 +1,40 @@
-## Hi there 👋
+<!-- Header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi!%20I'm%20Juan%20Pérez%20🌈&fontSize=40&fontAlignY=35&color=gradient&animation=twinkling"/>
+</p>
 
-<!--
-**Egnyeh/Egnyeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌟 About Me
+👨‍💻 **Programming Student**   
+🚀 I refuse to get stuck in time. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+## 🎨 Tech & Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+</p>
+
+
+
+## 🚀 Featured Projects
+🌟Stay tunned for what's comming.
+
+
+---
+
+## 🎉 Fun Fact
+🌍 I love traveling, coffee and enjoying peaceful things in life ☕✈️  
+
+---
+
+<!-- Colorful footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+</p>
