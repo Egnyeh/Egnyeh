@@ -19,7 +19,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/java-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/androidstudio/androidstudio-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/fastapi/fastapi-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/json/json-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kotlin/kotlin-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original.svg" width="50"/>
 </p>
 
 
