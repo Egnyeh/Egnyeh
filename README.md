@@ -26,6 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/json/json-original.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kotlin/kotlin-original.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/angular/angular-original.svg" width="50"/>
 </p>
 
 
