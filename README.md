@@ -10,13 +10,16 @@
 
 🚀 I refuse to get stuck in time. 
 
+---
+
 <h2 align="left">GitHub Stats</h2>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Egnyeh&show_icons=true&theme=dracula&hide_border=true&bg_color=bb8588" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egnyeh&layout=compact&theme=dracula&hide_border=true&bg_color=d6ce93" height="160" alt="languages graph" />
-</div>
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app" alt="Stats de Egnyeh" height="170" />
+  <img src="https://github-readme-stats.vercel.app" alt="Lenguajes de Egnyeh" height="170" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com" alt="Racha de Egnyeh" />
+</p>
 
 ---
 
