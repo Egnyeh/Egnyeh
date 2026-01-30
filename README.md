@@ -13,14 +13,18 @@
 ---
 
 <h2 align="left">GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app" alt="Stats de Egnyeh" height="170" />
-  <img src="https://github-readme-stats.vercel.app" alt="Lenguajes de Egnyeh" height="170" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com" alt="Racha de Egnyeh" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Egnyeh&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Egnyeh&layout=compact&theme=radical&hide_border=true" width="38%" />
 </p>
 
+<!-- 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Egnyeh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Egnyeh&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+</p>
+-->
 ---
 
 ## 🎨 Tech & Tools
