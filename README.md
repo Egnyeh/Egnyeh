@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 About Me
-👨‍💻 **Programming Student & Dev at EPCDoctor** 
+👨‍💻 **Fullstack dev at EPCDoctor** 
 
 🚀 I refuse to get stuck in time. 
 
